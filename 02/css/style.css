@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(216, 215, 215);
+}
+h4{
+    text-transform: uppercase;
+    margin-top: 60px;
+}
+.texto-pequeno{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(134, 134, 134);
+}
+h6{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    font-weight: bold;
+}
+.col-3{
+    margin-right: 2px;
+}
+.card-body p{
+    font-size: 11pt;
+    color:  rgb(134, 134, 134);
+}
+
+#legenda{
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 10pt;
+    position: absolute;
+    top: 55%;
+    left: 82%;
+}
